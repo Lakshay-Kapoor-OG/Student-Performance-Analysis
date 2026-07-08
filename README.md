@@ -106,11 +106,11 @@ python -m streamlit run student_performance_analysis_app.py
 
 ### Home Page
 
-![Home](output_images/Output 1 .png)
+![Home](Output Images/Output 1 .png)
 
 ### Prediction Result
 
-![Prediction](output_images/Output 1 Result.png)
+![Prediction](Output Images/Output 1 Result.png)
 
 ---
 
